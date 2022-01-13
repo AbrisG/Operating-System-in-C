@@ -1,4 +1,4 @@
-This is the final assignment for COMP310: Operating Systems ourse. 
+This is the final assignment for COMP310: Operating Systems course. 
 
 It is a simulation of an operating system, comprised of:
  * Shell, interpreter, and shell memory
