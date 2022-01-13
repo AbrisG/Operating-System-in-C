@@ -1,0 +1,25 @@
+mount test 8 8
+write horse [i love horses]
+write monke [mokeys r great]
+read horse h
+print h
+mount test 6 6
+read horse h
+print h
+write horse [ cool]
+mount test 6 6
+read horse h
+print h
+mount why 12 12
+write ass4 [this assignment...]
+mount test 6 6
+read monke m
+print m
+mount why 12 12
+write huh [c o n f u s i o n]
+write ass4 [...is kinda crazy]
+mount why 12 12
+read huh h
+print h
+read ass4 w
+print w
